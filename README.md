@@ -1,1 +1,3 @@
-# ml-python
+# Machine Learning - Python
+
+*machine learning exercises in Python*
